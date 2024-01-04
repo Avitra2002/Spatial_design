@@ -5,6 +5,6 @@ For the initial assignment of the course, we were challenged to craft a detailed
 
 ### Narrative Insight: "Help me I'm bored"
 
-I often grapple with feelings of ennui when working within the confines of my room. There are moments when my motivation wanes, threatening to derail my productivity. Yet, it is my faithful canine companion, Hershey, who serves as my unwavering source of inspiration. My narrative endeavors to encapsulate the spectrum of my emotions, utilizing a color-coded scale: red symbolizing frustration or lethargy, yellow representing the onset of boredom, and green signifying a revitalized spirit.
+I often grapple with feelings of ennui when working within the confines of my room. There are moments when my motivation wanes, threatening to derail my productivity. Yet, it is my faithful canine companion, Hershey, who serves as my unwavering source of inspiration and my beloved mini home projector that keeps me going. My narrative endeavors to encapsulate the spectrum of my emotions, utilizing a color-coded scale: red symbolizing frustration or lethargy, yellow representing the onset of boredom, and green signifying a revitalized spirit.
 
 The static composition offers a snapshot of my interactions within my room, capturing the dynamics between myself, the objects that populate my space, and Hershey. Conversely, the accompanying GIF provides a dynamic portrayal of my movements within the room, offering a visual representation of my shifting moods.
