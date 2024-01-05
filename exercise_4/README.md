@@ -1,5 +1,5 @@
 ## AI Powered Design Project
-In this project we were challenged to reimagine an iconic design to evolving conditions and contexts. By altering classic design, we had to explore how shift in time, society, technology, environment and spatial dynamics can impact and transform design relevance.
+In this project we were challenged to reimagine an iconic design to evolving conditions and contexts. By altering classic design, we had to explore how shift in time, society, technology, environment and spatial dynamics can impact and transform design relevance and imagine it using generative AI.
 
 ### Group Members
 1) KIATKONGCHAYIN AKRAPONG (HIN)
