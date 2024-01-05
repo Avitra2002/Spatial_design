@@ -1,2 +1,2 @@
 # Spatial_design
-10.024 Spatial Design World (Elective) [SUTD]
+10.024 Spatial Design World (Elective) projects [SUTD] 
