@@ -26,7 +26,8 @@ _"**Riding to Relaxation**
 After a long day at school, especially after four hours of spatial classes, what do we, as students, always think of? Yes, go home! So, we've located our rooms right at the bus stop, so that once the clock strikes 5 PM, we can immediately board our magical bus. This bus is not just any bus, but it's our 'home sweet home' bus. On level 1, we have arranged a gaming area at the driver's seat, and the rest is where we get a good night's sleep and freshen up for the next day. The second floor is for relaxation and staying in touch with nature, which we get to do a lot. Wow, what a work-life balance!_
 
 [Here is our final product](https://github.com/Avitra2002/Spatial_design/files/13833226/pdf_2_without_avatar.pdf)
-
+[Exploded View of the bus](https://github.com/Avitra2002/Spatial_design/files/13838164/bus.2d.pdf)
+[Closer view to the bus stop](https://github.com/Avitra2002/Spatial_design/files/13838174/busstop.2d.pdf)
 
 **Final Video**
 https://github.com/Avitra2002/Spatial_design/assets/99790753/2769ba7b-27ac-4289-8e5b-7608eb6c6581
